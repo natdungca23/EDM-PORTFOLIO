@@ -20,4 +20,4 @@
 # Step 4: Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![image alt](https://github.com/natdungca23/Midterm-task-1/blob/c5eeac64f99fbd597a6c0a39a350a4525d5541d8/Task%201/Screenshot%202025-03-03%20145144.png)
 # Here's the Physical Model
-![image alt](https://github.com/natdungca23/Midterm-task-1/blob/3a4a39c2059ab831ec7195b8ecdbadfcf82a23b0/Screenshot%202025-03-03%20132406.png)
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/edd1c17c6c15b5481b97c26e33e69e9effc62161/Midterm-Task%201/Screenshot%202025-03-03%20132406.png)
