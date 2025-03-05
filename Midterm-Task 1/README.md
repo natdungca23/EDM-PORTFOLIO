@@ -16,7 +16,7 @@
 * Apply Third Normal Form (3NF).
 * Map the normalized tables into a Physical Data Model.
 # Step 3: Here's the screenshot of my output before I started data cleaning (See Screenshot)
-![image alt](https://github.com/natdungca23/Midterm-task-1/blob/c2f5a5c4095aee688b99b7c006bc82d4557a24d2/Screenshot%202025-03-03%20131906.png)
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
 # Step 4: Here's the screenshot of my output after I started data cleaning (See screenshot)
 ![image alt](https://github.com/natdungca23/Midterm-task-1/blob/c5eeac64f99fbd597a6c0a39a350a4525d5541d8/Task%201/Screenshot%202025-03-03%20145144.png)
 # Here's the Physical Model
