@@ -9,4 +9,4 @@
  * Elementary: Pandacaqui Elementary School
 # My Projects
 * Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Midterm-Task%201) 
-* Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://drive.google.com/file/d/1w9A5gLkFapUB9HuG-Z_51n68IZS2Rx7m/view)
+* Midterm Lab Task 2: [Data Cleaning and Preparation using POWER QUERY](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Midterm%20Task%202)
