@@ -64,3 +64,6 @@ let
     #"Changed Type1" = Table.TransformColumnTypes(#"Split Column by Position",{{"Company Name.1", type text}, {"Company Name.2", type text}})
 in
     #"Changed Type1"
+
+# UNDONE
+(https://drive.google.com/file/d/14obgZnDLXqBo4GcEFfZETZVNtePURBHy/view?usp=classroom_web&authuser=0)
