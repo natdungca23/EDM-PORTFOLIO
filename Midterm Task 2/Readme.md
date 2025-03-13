@@ -43,12 +43,20 @@ Sure! Let's simplify the process of cleaning and transforming data using Power Q
 ### 11. Finish and Load the Cleaned Data
 - Once you’re happy with the changes, click Close & Load to load the cleaned data back into Excel or Power BI.
 ## Dataset Before Cleaning and Transformation (Screenshot)
+* Uncleaned DS Jobs
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/237655450752c7534149ef544a6530572b9a4e83/Midterm%20Task%202/Images/Nat.6%20unclean.png)
 # Dataset After Cleaning and Transformation 
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/9628d22f1a7146d0ec21bce8681533efc3c0aa69/Midterm%20Task%202/Images/Nat%207%20-%202nd.png)
 # Here are the Screenshots of every queries 
 * Sal by Role Type Dup
-![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/9628d22f1a7146d0ec21bce8681533efc3c0aa69/Midterm%20Task%202/Images/Nat%207%20-%202nd.png)
-
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
+* Sal by Size Ref
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
+* Sal by Size Role Type Dup
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
+* States
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
+* Sal by State Ref
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
 
 
