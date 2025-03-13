@@ -51,7 +51,7 @@ Sure! Let's simplify the process of cleaning and transforming data using Power Q
 * Sal by Role Type Dup
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
 * Sal by Size Ref
-![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/df01314eb1af1c4d57b586f96c69c6edcb406e36/Midterm%20Task%202/Images/NAt%203.png)
 * Sal by Size Role Type Dup
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/79906f293372aa993657550f93d94538ff92f110/Midterm%20Task%202/Images/nat%202.png)
 * States
