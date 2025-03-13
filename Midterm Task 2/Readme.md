@@ -45,6 +45,6 @@ Sure! Let's simplify the process of cleaning and transforming data using Power Q
 ## Dataset Before Cleaning and Transformation (Screenshot)
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/237655450752c7534149ef544a6530572b9a4e83/Midterm%20Task%202/Images/Nat.6%20unclean.png)
 # Dataset After Cleaning and Transformation 
-![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/237655450752c7534149ef544a6530572b9a4e83/Midterm%20Task%202/Images/Nat.6%20unclean.png)
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/9628d22f1a7146d0ec21bce8681533efc3c0aa69/Midterm%20Task%202/Images/Nat%207%20-%202nd.png)
 
 
