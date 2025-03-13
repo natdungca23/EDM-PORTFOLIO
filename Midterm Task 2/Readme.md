@@ -43,5 +43,5 @@ Sure! Let's simplify the process of cleaning and transforming data using Power Q
 ### 11. Finish and Load the Cleaned Data
 - Once you’re happy with the changes, click Close & Load to load the cleaned data back into Excel or Power BI.
 ## Dataset Before Cleaning and Transformation (Screenshot)
-![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/237655450752c7534149ef544a6530572b9a4e83/Midterm%20Task%202/Images/Nat.6%20unclean.png)
 
