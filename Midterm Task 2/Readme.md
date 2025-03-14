@@ -1,9 +1,7 @@
  #  Midterm Lab Task - 2 Data Cleaning and Transformation Using Power Query 
  > In this task we are given a raw data from csv to perform data cleaning and transformation using power query 
 Sure! Let's simplify the process of cleaning and transforming data using Power Query.
-## Task Description:
-> The Use of Power Query is to clean and preprocess raw data by removing inconsistencies, handling missing or null values, and standardizing data formats. The objective is to ensure that the data is accurate, consistent, and ready for analysis. This may include tasks such as filtering out irrelevant data, removing duplicates, transforming data types, and correcting any anomalies or outliers.
-# Steps 
+# Steps in Using Power Query 
 ### 1. Load Your Data
 - Open Excel or Power BI.
 - Go to the Data tab and click Get Data > From CSV.
