@@ -1,12 +1,8 @@
 Title: "EDM Portfolio"
 Description: "Enterprise Data Management Portfolio"
 Author: "Natasha Y. Dungca" 
-Logo: 
-
+Logo:
 show_downloads: true
+theme: jekyll-theme-minimal 
 
-github:
- is_project_page: true
 
-remote_theme: 
-plugins: 
