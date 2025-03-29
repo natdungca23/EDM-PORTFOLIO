@@ -20,6 +20,6 @@
 ### 7. Make It Interactive:
 - Ensure slicers update all Pivot Tables and charts.
 # Here is the screenshot of the Pivot Table and DashBoard
-[image_alt]()
+[image_alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/50145ebea3a4882c48050e05f31bd8781c7626aa/Midterm%20Task%203/Screenshot%202025-03-29%20085145.png)
 # Here is the screenshot of the MAP
 [image_alt]()
