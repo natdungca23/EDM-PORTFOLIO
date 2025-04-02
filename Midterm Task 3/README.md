@@ -1,5 +1,5 @@
 # Midterm Lab Task 3 - Creating PIVOT TABLE and DASHBOARD
--
+- This task will involve creating a **Pivot Table** by selecting your data, inserting a pivot table, and organizing fields into rows, columns, and values for analysis. Then, you'll create a **Dashboard** by visualizing key metrics with charts and graphs, arranging them to provide a clear overview of the data.      
 # STEPS IN CREATING PIVOT TABLE AND DASHBOARD
 ### 1. Prepare Data
 - Clean your data with columns for Job Role, Salary, State, Company Size, and Sector.
