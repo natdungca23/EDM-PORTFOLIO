@@ -4,19 +4,19 @@
 1. Open **MySQL Workbench** or **phpMyAdmin**.
 2. Connect to your MySQL server.
 3. Run the following SQL query to create the `employees` table
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185024.png)
 ## **Step 2: Create a Table Named "departments"**
 1. In **MySQL Workbench** or **phpMyAdmin**, run the following SQL query to create the `departments` table
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185115.png)
 ## **Step 3: Create a Table Named "employee_departments"**
 1. In **MySQL Workbench** or **phpMyAdmin**, run the following SQL query to create the `employee_departments` table
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185133.png)
 ## **Step 4: Create a Table Named "employee_projects"**
 1. In **MySQL Workbench** or **phpMyAdmin**, run the following SQL query to create the `employee_projects` table
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185148.png)
 ## **Step 5: Create a Table Named "managers"**
 1. In **MySQL Workbench** or **phpMyAdmin**, run the following SQL query to create the `managers` table
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185158.png)
 ## **Step 6: Generate the ERD (Entity-Relationship Diagram)**
 1. Open **MySQL Workbench**.
 2. Go to **File** → **New Model** to create a new model.
@@ -25,7 +25,7 @@
 5. Arrange the tables to make the diagram clear and readable.
 6. Save and export the ERD as **PNG** or **PDF**:
    - Go to **File** → **Export** → **Export as PNG** (or PDF).
-   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/e4368e1ec66f2ae269a7cfaf7088eefcc1f47536/Midterm-Task%201/Screenshot%202025-03-03%20131906.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/a6b6a38ec5171a245df0bce694bbd4bfa97e7d72/Finals%20Task%201/Image/Screenshot%202025-04-13%20185933.png)
 ## **Step 7: Save and Export SQL Code**
 1. In **MySQL Workbench** or **phpMyAdmin**, copy all the SQL code used to create the tables.
 2. Save the SQL code into a `.sql` file and keep it ready for submission.
