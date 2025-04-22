@@ -6,7 +6,9 @@
 1. Student – who submits assignments.
 2. Assignment – which students work on.
 3. Submission – the work submitted by students.
-
+   ### SCREENSHOTS OF QUERY STATEMENTS
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/45fbb39346ce5f0a570d27a7cbfe1ac495baf021/Finals%20Task%202/IMAGES/tbl%201%2C%202.png)
+   ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/45fbb39346ce5f0a570d27a7cbfe1ac495baf021/Finals%20Task%202/IMAGES/tbl%203.png)
 ## Step 2: Create MySQL Tables
 - We created 3 tables:
 1. Student Table
