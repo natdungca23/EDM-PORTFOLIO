@@ -1,5 +1,5 @@
 # Finals Lab Task 2: Transform ER into Relational Tables
-- In this task, it shows how to convert an ER (Entity-Relationship) diagram for student assignment submissions into MySQL relational tables. It includes creating tables for students, assignments, and submissions, setting up relationships using foreign keys, and making sure data stays connected using referential integrity.
+- In this task, shows how to convert an ER (Entity-Relationship) diagram for student assignment submissions into MySQL relational tables. It includes creating tables for students, assignments, and submissions, setting up relationships using foreign keys, and making sure data stays connected using referential integrity.
   
 ## Step 1: Identify Entities and Relationships
 - From the ER diagram, we identified:
