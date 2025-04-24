@@ -7,7 +7,9 @@
 3. price: Decimal number
 
 ### SCREENSHOTS OF QUERY STATEMENT AND TABLE 
+
 ![image alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/b6de2cff1e336366b1c110b59575e11033ffb724/Finals%20Task%203/IMAGE/product1.png)
+
 ![image_alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/b6de2cff1e336366b1c110b59575e11033ffb724/Finals%20Task%203/IMAGE/product%20table%201.png)
 
 ## Task 2: Add a Price Check
@@ -31,3 +33,6 @@
 
 ### ER DIAGRAM
 ![image_alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/b6de2cff1e336366b1c110b59575e11033ffb724/Finals%20Task%203/IMAGE/erd-product.png)
+
+## HERE IS THE COPY OF MY MYSQL.SCRIPT
+![mysql_link](https://github.com/natdungca23/EDM-PORTFOLIO/blob/d4e7fcd9071a5967bab29145763d9659236a8814/Finals%20Task%203/IMAGE/final%20lab%20task%203.sql)
