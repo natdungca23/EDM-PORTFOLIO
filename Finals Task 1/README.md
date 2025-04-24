@@ -40,3 +40,6 @@ In **MySQL Workbench** or **phpMyAdmin**, run the following SQL query to create 
 3. **ER Diagram**: Submit the ER diagram as an image (PNG, JPG, or PDF).
 4. **SQL Copy**: Submit the `.sql` file containing the SQL code.
 
+## HERE IS THE COPY OF MY MYSQL.SCRIPT
+![mysql_link](https://github.com/natdungca23/EDM-PORTFOLIO/blob/daf09669017538134b2ad4f7eb3d62050aaeb360/Finals%20Task%201/Image/FINALS%20TASK%201%20-%20DUNGCA%20NATASHA.sql)
+
