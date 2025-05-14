@@ -30,3 +30,6 @@
 
 ![image_alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/717fe00e949c771b9528a2ef6e2cf8d8bbabc7bf/Final%20Lab%20Task%205/IMAGES/NO.5.png)
 ![image_alt](https://github.com/natdungca23/EDM-PORTFOLIO/blob/717fe00e949c771b9528a2ef6e2cf8d8bbabc7bf/Final%20Lab%20Task%205/IMAGES/NO.10.png)
+
+### HERE IS MYSQL SCRIPT 
+![MYSQL](https://github.com/natdungca23/EDM-PORTFOLIO/blob/4c56e819b8359a76abbb90921f0cc3a05d2c708e/Final%20Lab%20Task%205/IMAGES/FINAL%20LAB%20TASK%205..sql)
