@@ -16,3 +16,4 @@ I’m passionate about learning and improving my skills, and I’m currently exp
 * Finals Lab Task 2: [Transform ER into Relational Tables](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Finals%20Task%202)
 * Finals Lab Task 3: [Table Manipulation](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Finals%20Task%203)
 * Finals Lab Task 3.1: [USING SELECT CLAUSE](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Finals%20Task%203-1)
+* Finals Lab Task 5: [Views SP and Functions](https://github.com/natdungca23/EDM-PORTFOLIO/tree/main/Finals%20Task%203-1)
