@@ -1,5 +1,5 @@
 # Finals Lab Task 6. MongoDB Practice
--- 
+- This repository contains my final lab task for practicing MongoDB. It includes basic CRUD operations, queries, and working with collections and documents. The task helped me understand how to use MongoDB for storing and managing data in a NoSQL format.
 ## Create Database 
 - SCREENSHOTS OF QUERY
 
